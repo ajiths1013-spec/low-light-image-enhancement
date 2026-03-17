@@ -139,7 +139,7 @@ This combination is not commonly found in traditional low-light enhancement syst
 
 ## 👨‍💻 Developed By
 Ajith S  
-(Contributor: Subha SH)
+B.Tech Computer Science Engineering
 
 ---
 
